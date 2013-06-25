@@ -1,2 +1,3 @@
  This is the information we have
 
+This is the conflict version
